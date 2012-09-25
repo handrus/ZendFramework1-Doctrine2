@@ -9,8 +9,6 @@ Doctrine 2 requires different parts of configuration.
 - Cache
 - DBAL
 - ORM
-- 
-- Tetset
 
 ### Configuring Namespaces
 
